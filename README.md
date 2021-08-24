@@ -1,4 +1,4 @@
-## Oiii! Eu sou o João Saldanha
+## Olá! Eu sou o João Saldanha
  <div>
   <a href="https://github.com/JoaoSald">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSald&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
