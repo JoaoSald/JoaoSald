@@ -6,7 +6,7 @@
 </div>
  
  <hr>
-## Minhas principais tecnologias:
+ <p><b> Minhas principais tecnologias: </b></p>
   <div style="display: inline_block"><br>
   <img align="center" alt="JoaoSald-php" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> -
   <img align="center" alt="JoaoSald-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
@@ -15,6 +15,4 @@
   <img align="center" alt="JoaoSald-Java" height="70" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">-
   <img align="center" alt="JoaoSald-py" height="65" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
           
-          
-  
 </div>
