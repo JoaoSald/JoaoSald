@@ -6,6 +6,7 @@
 </div>
  
  <hr>
+## Minhas principais tecnologias:
   <div style="display: inline_block"><br>
   <img align="center" alt="JoaoSald-php" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> -
   <img align="center" alt="JoaoSald-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
@@ -17,5 +18,3 @@
           
   
 </div>
-  
-  ##
